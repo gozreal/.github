@@ -6,7 +6,7 @@ A positive Gopher technical community.
 
 ## Goals
 
-TODO...
+Building an ecosystem around Go. We trust that every gopher will obtain most experiences at here. Keep going,Kepp laughing, we are progressing.
 
 ## Community
 
